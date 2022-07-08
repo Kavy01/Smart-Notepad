@@ -1,1 +1,4 @@
-# Smart-Notepad
+# Pre requisites 
+
+- Python
+- JDBC
